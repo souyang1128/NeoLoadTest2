@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=DemoNew
+project.config.storage=ZIP
+project.id=ec4de2e3-548e-47da-8595-249c4ead7911
+team.server.enabled=true
+product.original.name=NeoLoad
+product.name=NeoLoad
+product.original.version=6.1.2
+project.config.path=config.zip
+project.version=6.5
+project.original.version=6.1
+team.server.project=/souyang1128/NeoLoadTest2
